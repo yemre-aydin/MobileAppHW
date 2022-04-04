@@ -1,0 +1,13 @@
+
+
+
+
+# Check the button and click if it appears
+* "6" wait for a second
+* "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" check element is visible on page and click
+* "5" wait for a second
+
+#Start The Shopping
+*"6" wait for a second
+*Xpath "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" find elements and click
+

@@ -1,0 +1,19 @@
+
+#Category Page
+
+*"5" wait for a second
+*Xpath "//android.widget.FrameLayout[@content-desc=\"Kategoriler\"]/android.view.ViewGroup/android.widget.TextView" find elements and click
+*"5" wait for a second
+
+
+#Woman Page
+* "5" wait for a second
+* Xpath "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[2]/android.widget.TextView" find elements and click
+* "5" wait for a second
+
+#Pants Page
+*"4" wait for a second
+*Xpath "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[14]" find elements and click
+
+
+
