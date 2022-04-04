@@ -21,7 +21,7 @@ public class BaseTest {
     @BeforeScenario
     public void SetUp() throws MalformedURLException {
         if (localAndroid){
-            System.out.println("ANdroid test başlıyor");
+            System.out.println("ANdroid test basliyor");
             DesiredCapabilities desiredCapabilities=new DesiredCapabilities();
             desiredCapabilities.setCapability(MobileCapabilityType.PLATFORM_NAME, MobilePlatform.ANDROID);
             desiredCapabilities.setCapability(MobileCapabilityType.DEVICE_NAME,"emulator-5554");
